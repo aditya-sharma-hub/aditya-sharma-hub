@@ -74,18 +74,26 @@ Currently pursuing my *Computer Science degree*, I thrive on creating real-world
 ### 💫 GitHub Overview  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya-sharma-hub&theme=radical" />
+  <!-- Profile Summary (Glassy transparent) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya-sharma-hub&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditya-sharma-hub&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aditya-sharma-hub&theme=solarized_dark" />
+  <!-- Top Languages by Repo (Vivid multicolor) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditya-sharma-hub&theme=solarized_dark" />
+  <!-- Top Languages by Commit (Compatible vivid tone) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aditya-sharma-hub&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditya-sharma-hub&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aditya-sharma-hub&theme=radical&utcOffset=5.5" />
+  <!-- GitHub Stats (Bright gradient) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditya-sharma-hub&theme=gruvbox" />
+  <!-- Productive Time (Soft bluish tone) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aditya-sharma-hub&theme=tokyonight&utcOffset=5.5" />
 </p>
+
+
+
 
 ---
 
