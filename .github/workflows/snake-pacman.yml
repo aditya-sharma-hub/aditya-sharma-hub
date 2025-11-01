@@ -1,33 +1,32 @@
-name: 🕶️ Generate Neon Matrix Snake
+name: 🟡 Pac-Man Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Runs every 12 hours
+    - cron: "0 */12 * * *"  # runs every 12 hours
   workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
-  generate-snake:
+  generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
-      - name: 🧩 Checkout repository
+      - name: 🧩 Checkout
         uses: actions/checkout@v4
 
-      - name: 🐍 Generate Neon Matrix Snake
+      - name: 🟡 Generate Pac-Man Snake
         uses: Platane/snk@v3
         with:
           github_user_name: aditya-sharma-hub
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#00FFFF&color_dots=#39FF14,#00FFFF,#FF3131,#FFD700
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#FFD700&color_dots=#39FF14,#1E90FF,#FF1493,#FF4500
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: 🚀 Deploy to GitHub Pages
+      - name: 🚀 Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
