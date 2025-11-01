@@ -1,0 +1,27 @@
+name: Update GitHub Activity
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"  # runs every 2 hours
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update this repo's README with latest activity
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm install -g github-activity-readme
+
+      - name: Update README with latest activity
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: github-activity-readme --username aditya-sharma-hub --max 5
