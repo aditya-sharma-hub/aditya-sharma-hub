@@ -125,8 +125,8 @@ Currently pursuing my *Computer Science degree*, I thrive on creating real-world
 </h2>
 
 <!--START_SECTION:activity-->
-1. Flask Dashboard for Laptop Price Prediction
 <!--END_SECTION:activity-->
+
 
 ---
 
