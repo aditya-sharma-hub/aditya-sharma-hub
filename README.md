@@ -73,7 +73,7 @@ Currently pursuing my **Computer Science degree**, I thrive on creating real-wor
 ### 📊 GitHub Analytics  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aditya-sharma-hub&show_icons=true&theme=tokyonight&hide_rank=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aditya-sharma-hub&show_icons=true&theme=tokyonight&hide_rank=true" / >
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-sharma-hub&layout=compact&theme=tokyonight" />
 </p>
 
@@ -86,6 +86,18 @@ Currently pursuing my **Computer Science degree**, I thrive on creating real-wor
 </p>
 
 ---
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=550&lines=📅+Latest+GitHub+Activity" />
+</h2>
+
+<!--START_SECTION:activity-->  
+1. Flask Dashboard for Laptop Price Prediction
+
+<!--END_SECTION:activity-->
+
+---
+
 
 ### 🌐 Connect with Me  
 
