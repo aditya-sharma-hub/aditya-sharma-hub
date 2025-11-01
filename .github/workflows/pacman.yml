@@ -1,0 +1,29 @@
+name: 🟣 Pacman Animation (Tokyo Night)
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs once daily
+  workflow_dispatch:      # Lets you run it manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Pac-Man SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: aditya-sharma-hub
+          outputs: |
+            dist/pacman-tokyonight.svg
+
+      - name: Push Pac-Man SVG to main branch
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "dist/pacman-tokyonight.svg"
+          message: "🟣 Update Pac-Man contribution graph"
