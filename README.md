@@ -83,9 +83,8 @@ Currently pursuing my **Computer Science degree**, I thrive on creating real-wor
 ### ⭐ My Contribution  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aditya-sharma-hub/aditya-sharma-hub/main/dist/pacman-tokyonight.svg" alt="Pac-Man Animation" />
+  <img src="https://raw.githubusercontent.com/aditya-sharma-hub/aditya-sharma-hub/output/valo_pacman.svg" alt="Valorant-Pac-Man animation" />
 </p>
-
 
 
 ---
