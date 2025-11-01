@@ -143,9 +143,11 @@ Currently pursuing my Computer Science degree, I thrive on creating real-world d
 
 ### ⭐ My Contribution  
 
+### 🟡 Pac-Man Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-sharma-hub&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://raw.githubusercontent.com/aditya-sharma-hub/aditya-sharma-hub/output/github-snake-pacman.svg" alt="Pac-Man Contribution Animation" />
 </p>
+
 
 
 
