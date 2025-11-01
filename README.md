@@ -105,21 +105,7 @@ Currently pursuing my Computer Science degree, I thrive on creating real-world d
 
 ### 💫 GitHub Overview  
 
-<style>
-  .glassy-card {
-    border-radius: 15px;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
-    backdrop-filter: blur(12px);
-    -webkit-backdrop-filter: blur(12px);
-    margin: 10px;
-    border: 1px solid rgba(255, 255, 255, 0.1);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-  .glassy-card:hover {
-    transform: scale(1.03);
-    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
-  }
-</style>
+
 
 <p align="center">
   <img class="glassy-card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya-sharma-hub&theme=transparent" width="95%" />
