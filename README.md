@@ -73,24 +73,36 @@ Currently pursuing my *Computer Science degree*, I thrive on creating real-world
 
 ### 💫 GitHub Overview  
 
+<style>
+  .glassy-card {
+    border-radius: 15px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    margin: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  .glassy-card:hover {
+    transform: scale(1.03);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+  }
+</style>
+
 <p align="center">
-  <!-- Profile Summary (Glassy transparent) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya-sharma-hub&theme=transparent" />
+  <img class="glassy-card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya-sharma-hub&theme=transparent" width="95%" />
 </p>
 
 <p align="center">
-  <!-- Top Languages by Repo (Vivid multicolor) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditya-sharma-hub&theme=solarized_dark" />
-  <!-- Top Languages by Commit (Compatible vivid tone) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aditya-sharma-hub&theme=radical" />
+  <img class="glassy-card" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditya-sharma-hub&theme=solarized_dark" width="45%" />
+  <img class="glassy-card" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aditya-sharma-hub&theme=radical" width="45%" />
 </p>
 
 <p align="center">
-  <!-- GitHub Stats (Bright gradient) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditya-sharma-hub&theme=gruvbox" />
-  <!-- Productive Time (Soft bluish tone) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aditya-sharma-hub&theme=tokyonight&utcOffset=5.5" />
+  <img class="glassy-card" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditya-sharma-hub&theme=gruvbox" width="45%" />
+  <img class="glassy-card" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aditya-sharma-hub&theme=tokyonight&utcOffset=5.5" width="45%" />
 </p>
+
 
 
 
