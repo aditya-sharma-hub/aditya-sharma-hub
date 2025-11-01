@@ -79,7 +79,7 @@ Currently pursuing my **Computer Science degree**, I thrive on creating real-wor
 
 ---
 
-### 🐍 My Contribution Snake  
+### ⭐ My Contribution 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aditya-sharma-hub/aditya-sharma-hub/output/github-contribution-grid-snake.svg" alt="snake animation" />
