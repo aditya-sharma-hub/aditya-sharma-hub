@@ -18,17 +18,17 @@
 
 ### 🧠 About Me  
 
-I’m a passionate **Data Scientist** focused on leveraging **Machine Learning, AI, and Data Analytics** to build impactful solutions.  
-Currently pursuing my **Computer Science degree**, I thrive on creating real-world data-driven insights.  
+I’m a passionate *Data Scientist* focused on leveraging *Machine Learning, AI, and Data Analytics* to build impactful solutions.  
+Currently pursuing my *Computer Science degree*, I thrive on creating real-world data-driven insights.  
 
-💬 *“The goal is to turn data into information, and information into insight.”*
+💬 “The goal is to turn data into information, and information into insight.”
 
 ---
 
 ### 🎯 Current Focus  
 
-- 📊 Strengthening **ML, AI & Data Visualization** skills  
-- 🚀 Working on **AI automation projects & dashboards**  
+- 📊 Strengthening *ML, AI & Data Visualization* skills  
+- 🚀 Working on *AI automation projects & dashboards*  
 - 🎮 Balancing logic with creativity and gaming  
 
 ---
@@ -50,7 +50,7 @@ Currently pursuing my **Computer Science degree**, I thrive on creating real-wor
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
-### 🗄️ Databases & Tools  
+### 🗄 Databases & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,vscode,jupyter,git&theme=dark" />
 </p>
@@ -66,8 +66,8 @@ Currently pursuing my **Computer Science degree**, I thrive on creating real-wor
 
 | Project | Description | Tools / Tech |
 |----------|--------------|--------------|
-| 🔵 **[AI Sales Forecasting Dashboard](#)** | AI-powered forecasting system combining ML with Power BI for dynamic insights. | Power BI, Python, Scikit-learn |
-| 🟣 **[Streamlit Data Dashboard](#)** | Interactive web dashboard for data visualization using CSV datasets. | Streamlit, Pandas, Plotly |
+| 🔵 *[AI Sales Forecasting Dashboard](#)* | AI-powered forecasting system combining ML with Power BI for dynamic insights. | Power BI, Python, Scikit-learn |
+| 🟣 *[Streamlit Data Dashboard](#)* | Interactive web dashboard for data visualization using CSV datasets. | Streamlit, Pandas, Plotly |
 
 ---
 
@@ -89,7 +89,7 @@ Currently pursuing my **Computer Science degree**, I thrive on creating real-wor
 
 ---
 
-### ⚙️ My Workspace  
+### ⚙ My Workspace  
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Windows%2011-0078D6?style=for-the-badge&logo=windows" />
   <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code" />
@@ -118,13 +118,6 @@ Currently pursuing my **Computer Science degree**, I thrive on creating real-wor
 
 [![Aditya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aditya-sharma-hub&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-# 👾 Pac-Man Contribution Game
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
-</picture>
 ---
 
 <h2 align="center">
@@ -160,4 +153,4 @@ Currently pursuing my **Computer Science degree**, I thrive on creating real-wor
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:8A2BE2&height=100&section=footer" />
 </p>
 
-⭐ *“Turning data into insights, and insights into innovation.”*
+⭐ “Turning data into insights, and insights into innovation.”
