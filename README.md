@@ -118,6 +118,13 @@ Currently pursuing my **Computer Science degree**, I thrive on creating real-wor
 
 [![Aditya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aditya-sharma-hub&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+# 👾 Pac-Man Contribution Game
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+</picture>
 ---
 
 <h2 align="center">
