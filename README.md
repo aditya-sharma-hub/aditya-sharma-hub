@@ -18,8 +18,8 @@
 
 ### 🧠 About Me  
 
-I’m a passionate *Data Scientist* focused on leveraging *Machine Learning, AI, and Data Analytics* to build impactful solutions.  
-Currently pursuing my *Computer Science degree*, I thrive on creating real-world data-driven insights.  
+I’m a passionate Data Scientist focused on leveraging Machine Learning, AI, and Data Analytics to build impactful solutions.  
+Currently pursuing my Computer Science degree, I thrive on creating real-world data-driven insights.  
 
 💬 “The goal is to turn data into information, and information into insight.”
 
@@ -27,38 +27,70 @@ Currently pursuing my *Computer Science degree*, I thrive on creating real-world
 
 ### 🎯 Current Focus  
 
-- 📊 Strengthening *ML, AI & Data Visualization* skills  
-- 🚀 Working on *AI automation projects & dashboards*  
+- 📊 Strengthening ML, AI & Data Visualization skills  
+- 🚀 Working on AI automation projects & dashboards  
 - 🎮 Balancing logic with creativity and gaming  
 
 ---
 
 ## 🧰 Tech Stack  
 
-### 🧠 Programming & AI  
+## 🧠 Programming & AI  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy&theme=dark" />
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-4D77CF?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-4285F4?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### 📊 Data Visualization  
+
+## 📊 Data Visualization  
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-004D99?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
-### 🗄 Databases & Tools  
+
+## 🗄 Databases & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,vscode,jupyter,git&theme=dark" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-### 🌐 Development & Deployment  
+
+## 🌐 Development & Deployment  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,streamlit,html,css&theme=dark" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
+
+
+## ⚙ Other Technical Skills  
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Cleaning-4682B4?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Modeling-5F9EA0?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL%20Pipelines-DC143C?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistics-00BFFF?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine Learning-00008B?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
 
 ---
 
@@ -66,8 +98,8 @@ Currently pursuing my *Computer Science degree*, I thrive on creating real-world
 
 | Project | Description | Tools / Tech |
 |----------|--------------|--------------|
-| 🔵 *[AI Sales Forecasting Dashboard](#)* | AI-powered forecasting system combining ML with Power BI for dynamic insights. | Power BI, Python, Scikit-learn |
-| 🟣 *[Streamlit Data Dashboard](#)* | Interactive web dashboard for data visualization using CSV datasets. | Streamlit, Pandas, Plotly |
+| 🔵 [AI Sales Forecasting Dashboard](#) | AI-powered forecasting system combining ML with Power BI for dynamic insights. | Power BI, Python, Scikit-learn |
+| 🟣 [Streamlit Data Dashboard](#) | Interactive web dashboard for data visualization using CSV datasets. | Streamlit, Pandas, Plotly |
 
 ---
 
