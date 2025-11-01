@@ -9,8 +9,7 @@
 
 <!-- 🧠 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Data+Scienctist;
-    AI-Driven+Problem+Solver;Gamer+at+Heart+🎮" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Data+Scientist+Aspirant;AI-Driven+Problem+Solver;Gamer+at+Heart+🎮" />
 </p>
 
 ---
@@ -28,6 +27,7 @@ Currently pursuing my **Computer Science degree**, I’m building expertise in *
 
 - 📊 Enhancing skills in **Machine Learning, Data Visualization, and AI Automation**  
 - 💡 Building projects around **Predictive Modeling, Power BI Dashboards, and AI Systems**  
+- 🎮 Balancing analytical thinking with creative problem-solving  
 
 ---
 
@@ -53,7 +53,6 @@ Currently pursuing my **Computer Science degree**, I’m building expertise in *
 |----------|--------------|--------------|
 | 🔵 **[AI Sales Forecasting Dashboard](#)** | AI-powered forecasting system combining ML with Power BI for dynamic insights. | Power BI, Python, Scikit-learn |
 | 🟣 **[Streamlit Data Dashboard](#)** | Interactive web dashboard for data visualization using CSV datasets. | Streamlit, Pandas, Plotly |
-| 🟠 **[Data Analysis Automation Tool](#)** | Automated data cleaning and visualization workflow in Python. | Python, Pandas, Matplotlib |
 
 > *(You can replace “#” with your repo or live project links once added.)*
 
@@ -72,6 +71,10 @@ Currently pursuing my **Computer Science degree**, I’m building expertise in *
 </p>
 
 <p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=adityasharma&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=adityasharma&style=for-the-badge&color=blue" alt="Profile views"/>
 </p>
 
@@ -81,9 +84,8 @@ Currently pursuing my **Computer Science degree**, I’m building expertise in *
 
 - 🥇 Completed **Power BI Internship Project** on ESG Data with professional dashboard design  
 - 📈 Built **3 interconnected AI dashboards** using Power BI, ML models, and forecasting tools  
-- 🤖 Designed **OmniMind**, a next-gen AI orchestration framework (JARVIS-like personal assistant)  
 - 🧩 Strong foundation in **Data Analytics, ML, and Statistical Modeling**  
-- 🎮 Balanced creativity & logic — “Gaming mind, analytical heart.”  
+- 🎮 Balanced creativity & logic — *“Gaming mind, analytical heart.”*  
 
 ---
 
@@ -110,4 +112,4 @@ Currently pursuing my **Computer Science degree**, I’m building expertise in *
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:8A2BE2&height=100&section=footer" />
 </p>
 
-⭐️ *“Turning data into insights, and insights into innovation.”*  
+⭐️ *“Turning data into insights, and insights into innovation.”*
