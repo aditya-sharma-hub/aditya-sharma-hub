@@ -71,11 +71,20 @@ Currently pursuing my *Computer Science degree*, I thrive on creating real-world
 
 ---
 
-### 📊 GitHub Analytics  
+### 💫 GitHub Overview  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aditya-sharma-hub&show_icons=true&theme=tokyonight&hide_rank=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-sharma-hub&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya-sharma-hub&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditya-sharma-hub&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aditya-sharma-hub&theme=solarized_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditya-sharma-hub&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aditya-sharma-hub&theme=radical&utcOffset=5.5" />
 </p>
 
 ---
@@ -83,8 +92,9 @@ Currently pursuing my *Computer Science degree*, I thrive on creating real-world
 ### ⭐ My Contribution  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aditya-sharma-hub/aditya-sharma-hub/output/valo_pacman.svg" alt="Valorant-Pac-Man animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-sharma-hub&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
+
 
 
 ---
@@ -94,7 +104,7 @@ Currently pursuing my *Computer Science degree*, I thrive on creating real-world
   <img src="https://img.shields.io/badge/OS-Windows%2011-0078D6?style=for-the-badge&logo=windows" />
   <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code" />
   <img src="https://img.shields.io/badge/Browser-Chrome-0078D7?style=for-the-badge&logo=google-chrome" />
-  <img src="https://img.shields.io/badge/Laptop-HP%20ENVY 360-FF4500?style=for-the-badge&logo=asus" />
+  <img src="https://img.shields.io/badge/Laptop-HP%20ENVY 360-FF4500?style=for-the-badge&logo=Hp" />
 </p>
 
 ---
@@ -111,12 +121,6 @@ Currently pursuing my *Computer Science degree*, I thrive on creating real-world
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit" />
 </p>
-
----
-
-### 📈 GitHub Activity Graph  
-
-[![Aditya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aditya-sharma-hub&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
