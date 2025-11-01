@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </p>
+
 <!-- 🌌 PROFESSIONAL GITHUB PROFILE README for Aditya Sharma -->
 
 <p align="center">
@@ -17,10 +18,10 @@
 
 ### 🧠 About Me  
 
-I’m a passionate **Data Scienctist** focused on leveraging **Machine Learning, AI, and Data Analytics** to build impactful solutions.  
+I’m a passionate **Data Scientist** focused on leveraging **Machine Learning, AI, and Data Analytics** to build impactful solutions.  
 Currently pursuing my **Computer Science degree**, I thrive on creating real-world data-driven insights.  
 
-💬 *“The goal is to turn data into information, and information into insight”*
+💬 *“The goal is to turn data into information, and information into insight.”*
 
 ---
 
@@ -28,7 +29,7 @@ Currently pursuing my **Computer Science degree**, I thrive on creating real-wor
 
 - 📊 Strengthening **ML, AI & Data Visualization** skills  
 - 🚀 Working on **AI automation projects & dashboards**  
-- 🎮 Balancing logic with creativity and gaming
+- 🎮 Balancing logic with creativity and gaming  
 
 ---
 
@@ -73,7 +74,7 @@ Currently pursuing my **Computer Science degree**, I thrive on creating real-wor
 ### 📊 GitHub Analytics  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aditya-sharma-hub&show_icons=true&theme=tokyonight&hide_rank=true" / >
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aditya-sharma-hub&show_icons=true&theme=tokyonight&hide_rank=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-sharma-hub&layout=compact&theme=tokyonight" />
 </p>
 
@@ -82,8 +83,39 @@ Currently pursuing my **Computer Science degree**, I thrive on creating real-wor
 ### ⭐ My Contribution 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aditya-sharma-hub/aditya-sharma-hub/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/aditya-sharma-hub/aditya-sharma-hub/output/pacman-animation.svg" alt="Pac-Man eating contributions" />
 </p>
+
+---
+
+### ⚙️ My Workspace  
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Windows%2011-0078D6?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/Browser-Chrome-0078D7?style=for-the-badge&logo=google-chrome" />
+  <img src="https://img.shields.io/badge/Laptop-HP%20ENVY 360-FF4500?style=for-the-badge&logo=asus" />
+</p>
+
+---
+
+### 🌱 Currently Working On / Learning  
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-1E90FF?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-8A2BE2?style=for-the-badge&logo=powerbi" />
+  <img src="https://img.shields.io/badge/AI%20Systems-9370DB?style=for-the-badge&logo=pytorch" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Deep%20Learning-483D8B?style=for-the-badge&logo=keras" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit" />
+</p>
+
+---
+
+### 📈 GitHub Activity Graph  
+
+[![Aditya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aditya-sharma-hub&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -91,13 +123,11 @@ Currently pursuing my **Computer Science degree**, I thrive on creating real-wor
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=550&lines=📅+Latest+GitHub+Activity" />
 </h2>
 
-<!--START_SECTION:activity-->  
+<!--START_SECTION:activity-->
 1. Flask Dashboard for Laptop Price Prediction
-
 <!--END_SECTION:activity-->
 
 ---
-
 
 ### 🌐 Connect with Me  
 
