@@ -136,17 +136,20 @@ Currently pursuing my Computer Science degree, I thrive on creating real-world d
 </p>
 
 
-
-
-
 ---
 
 ### ⭐ My Contribution  
 
-### 🟡 Pac-Man Contribution Graph  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdityaSharma/output/main/pacman.svg" alt="Pac-Man Contribution Graph" />
-</p>
+<!-- 💫 Modern Contribution Graph Section -->
+<div align="center">
+  <table style="border: none; border-collapse: collapse; background: rgba(255, 255, 255, 0.05); border-radius: 20px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4); backdrop-filter: blur(8px); padding: 10px;">
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-sharma-hub&theme=react-dark&hide_border=true&area=true&hide_title=true" width="95%" alt="Contribution Graph" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
