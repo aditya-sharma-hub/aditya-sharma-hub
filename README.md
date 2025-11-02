@@ -137,10 +137,26 @@ Currently pursuing my Computer Science degree, I thrive on creating real-world d
   </table>
 </div>
 
+---
+
+<h2 align="center" style="color:#00BFFF; font-weight:700; text-shadow:0 0 15px #00BFFF;">🏆 GitHub Trophies</h2>
+
+<p align="center" style="
+  background: linear-gradient(135deg, #00BFFF, #8A2BE2, #1E90FF);
+  padding: 5px;
+  border-radius: 20px;
+  display: inline-block;
+  box-shadow: 0 0 25px rgba(0, 191, 255, 0.5);
+">
+  <img src="https://github-profile-trophy.vercel.app/?username=aditya-sharma-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=3&title=Commit,Repositories,Experience" 
+       alt="GitHub Trophies"
+       style="border-radius:15px; display:block;" />
+</p>
+
+
 
 
 ---
-
 ### ⚙ My Workspace  
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Windows%2011-0078D6?style=for-the-badge&logo=windows" />
