@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0" stop-color="#FFD54A"/>
+      <stop offset="1" stop-color="#FFB300"/>
+    </linearGradient>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+  <rect width="100%" height="100%" rx="16" fill="transparent"/>
+  <!-- Trophy icon -->
+  <g transform="translate(40,20)" filter="url(#shadow)">
+    <ellipse cx="70" cy="120" rx="50" ry="8" fill="#2b2b2b" opacity="0.12"/>
+    <rect x="40" y="40" width="60" height="60" rx="8" fill="url(#g1)"/>
+    <rect x="62" y="100" width="16" height="26" rx="6" fill="#9e7a00"/>
+    <path d="M20 45 q20 -20 40 0" fill="none" stroke="url(#g1)" stroke-width="8" stroke-linecap="round"/>
+    <path d="M140 45 q-20 -20 -40 0" fill="none" stroke="url(#g1)" stroke-width="8" stroke-linecap="round"/>
+    <!-- cup inner shine -->
+    <path d="M48 52 q30 12 54 0" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <!-- Text area -->
+  <g transform="translate(160,40)">
+    <text x="0" y="36" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#00BFFF" font-weight="700">Repositories</text>
+    <text x="0" y="100" font-family="Segoe UI, Arial, sans-serif" font-size="72" fill="#ffffff" font-weight="800" style="text-shadow: 0 2px 6px rgba(0,0,0,0.6)">9</text>
+    <text x="0" y="132" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#bdbdbd">Public repositories · aditya-sharma-hub</text>
+  </g>
+
+  <!-- Right accent -->
+  <rect x="520" y="20" rx="10" width="48" height="160" fill="url(#g1)" opacity="0.12"/>
+
+  <!-- Background rounded card fill -->
+  <rect x="4" y="4" width="592" height="192" rx="12" fill="#0b1220" opacity="0.85" stroke="#111827" />
+</svg>
