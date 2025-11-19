@@ -201,8 +201,8 @@ Currently pursuing my Computer Science degree, I thrive on creating real-world d
   <a href="mailto:adityasharmand@gmail.com">
     <img src="https://img.shields.io/badge/Email-adityasharmand%40gmail.com-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-green?style=for-the-badge&logo=vercel">
+  <a href="https://aditya-sharma-data-scien-xtjgwy9.gamma.site/">
+    <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=vercel">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Kaggle-Coming%20Soon-lightblue?style=for-the-badge&logo=kaggle">
