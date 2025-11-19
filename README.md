@@ -148,11 +148,8 @@ Currently pursuing my Computer Science degree, I thrive on creating real-world d
   box-shadow: 0 0 25px rgba(0, 191, 255, 0.5);
 ">
   <img src="https://github-readme-trophy.vercel.app/?username=aditya-sharma-hub&theme=tokyonight&no-frame=true&margin-w=15&column=3&title=Commit,Followers,Repositories&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" 
-       alt="GitHub Trophies"
-       style="border-radius:15px; display:block;" />
+       alt="GitHub Trophies" style="border-radius:15px; display:block;" />
 </p>
-
-
 
 
 
