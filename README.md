@@ -105,8 +105,6 @@ Currently pursuing my Computer Science degree, I thrive on creating real-world d
 
 ### 💫 GitHub Overview  
 
-
-
 <p align="center">
   <img class="glassy-card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya-sharma-hub&theme=transparent" width="95%" />
 </p>
@@ -139,6 +137,7 @@ Currently pursuing my Computer Science degree, I thrive on creating real-world d
 
 ---
 
+
 <h2 align="center" style="color:#00BFFF; font-weight:700; text-shadow:0 0 15px #00BFFF;">🏆 GitHub Trophies</h2>
 
 <p align="center" style="
@@ -148,10 +147,12 @@ Currently pursuing my Computer Science degree, I thrive on creating real-world d
   display: inline-block;
   box-shadow: 0 0 25px rgba(0, 191, 255, 0.5);
 ">
-  <img src="https://github-profile-trophy.vercel.app/?username=aditya-sharma-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=3&title=Commit,Repositories,Experience" 
+  <img src="https://github-readme-trophy.vercel.app/?username=aditya-sharma-hub&theme=tokyonight&no-frame=true&margin-w=15&column=3&title=Commit,Followers,Repositories&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" 
        alt="GitHub Trophies"
        style="border-radius:15px; display:block;" />
 </p>
+
+
 
 
 
