@@ -199,7 +199,7 @@ Currently pursuing my Computer Science degree, I thrive on creating real-world d
   <a href="mailto:adityasharmand@gmail.com">
     <img src="https://img.shields.io/badge/Email-adityasharmand%40gmail.com-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://aditya-sharma-data-scien-xtjgwy9.gamma.site/">
+  <a href="https://portfolio-1-ashy-ten.vercel.app/" >
     <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=vercel">
   </a>
   <a href="#">
